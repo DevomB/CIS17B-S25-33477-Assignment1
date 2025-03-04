@@ -8,7 +8,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your_username>/CIS17B-S25-33477-Assignment1.git
+   git clone https://github.com/DevomB/CIS17B-S25-33477-Assignment1.git
    cd CIS17B-S25-33477-Assignment1
    ```
 
